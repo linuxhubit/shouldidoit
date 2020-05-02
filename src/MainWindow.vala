@@ -29,7 +29,7 @@ public class Shouldidoit.MainWindow : Gtk.ApplicationWindow
     construct
     {
         get_style_context ().add_class ("rounded");
-        // set_keep_below (true);
+        set_keep_below (true);
 
         // set default window size
         set_size_request (450, 350);
