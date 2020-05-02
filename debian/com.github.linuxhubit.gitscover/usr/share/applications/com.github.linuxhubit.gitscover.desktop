@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=Shouldidoit
+GenericName=find git
+Comment=Discover new GitHub repositories
+Exec=com.github.linuxhubit.shouldidoit %U
+Icon=com.github.linuxhubit.shouldidoit
+Terminal=false
+Categories=Utility;Development;
+Keywords=git;

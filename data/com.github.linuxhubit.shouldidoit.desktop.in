@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=Should I do it
+GenericName=find git
+Comment=Should I do it
+Exec=com.github.linuxhubit.shouldidoit %U
+Icon=com.github.linuxhubit.shouldidoit
+Terminal=false
+Categories=Utility;Development;
+Keywords=git;
