@@ -14,6 +14,7 @@
 
 <div align="center">
     <img  src="https://github.com/linuxhubit/shouldidoit/raw/master/data/screenshot-1.png">
+    <img  src="https://github.com/linuxhubit/shouldidoit/raw/master/data/screenshot-2.png">
 </div>
 
 ## Problems/New Features?
