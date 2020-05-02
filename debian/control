@@ -12,5 +12,4 @@ Package: com.github.linuxhubit.shouldidoit
 Architecture: any
 Depends: ${misc:Depends}, ${shlibs:Depends}
 Pre-Depends: dpkg (>= 1.15.6)
-Description: License
- Find new GitHub repositories
+Description: Should I do It
