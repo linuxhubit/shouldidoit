@@ -1,5 +1,11 @@
+com.github.linuxhubit.shouldidoit (1.0.1) UNSTABLE; urgency=low
+
+  * New icons
+
+ -- Mirko Brombin <send@mirko.pm>  Sat, 2 May 2020 17:06:00 +0000
+
 com.github.linuxhubit.shouldidoit (1.0.0) UNSTABLE; urgency=low
     
   * Initial release
 
- -- Mirko Brombin <send@mirko.pm>  Fri, 2 May 2020 17:06:00 +0000
+ -- Mirko Brombin <send@mirko.pm>  Sat, 2 May 2020 17:06:00 +0000
