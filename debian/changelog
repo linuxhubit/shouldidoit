@@ -1,7 +1,6 @@
-com.github.linuxhubit.shouldidoit (1.2.3) UNSTABLE; urgency=low
+com.github.linuxhubit.shouldidoit (1.2.4) UNSTABLE; urgency=low
 
-  * New icons
-  * Removed dotfiles for debhelper
-  * Bump to 1.2.3 release for AppCenter submit
+  * Add meson directory with post_install
+  * Bump to 1.2.4 release for AppCenter submit
 
  -- Mirko Brombin <send@mirko.pm>  Sat, 2 May 2020 20:25:00 +0000
