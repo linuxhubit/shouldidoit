@@ -1,0 +1,41 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the com.github.linuxhubit.shouldidoit package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: com.github.linuxhubit.shouldidoit\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-05-02 17:00+0200\n"
+"PO-Revision-Date: 2020-08-16 17:06+0200\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.1\n"
+"Last-Translator: Heimen Stoffels <vistausss@outlook.com>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: nl\n"
+
+#. create main box
+#. create elements for answer data
+#: src/MainWindow.vala:63
+msgid "Yes"
+msgstr "Ja"
+
+#: src/MainWindow.vala:66 src/MainWindow.vala:116
+msgid "You should do it!"
+msgstr "Ga er voor!"
+
+#: src/MainWindow.vala:109
+msgid "No 👎🏼"
+msgstr "Nee 👎🏼"
+
+#: src/MainWindow.vala:110
+msgid "You shouldn't do it!"
+msgstr "Doe maar niet!"
+
+#: src/MainWindow.vala:115
+msgid "Yes 👍🏼"
+msgstr "Ja 👍🏼"
