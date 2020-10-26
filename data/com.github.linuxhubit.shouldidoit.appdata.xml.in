@@ -56,9 +56,9 @@
   </content_rating>
 
   <developer_name>Mirko Brombin</developer_name>
-  <url type="homepage">https://github.com/linuxhubit/discover</url>
-  <url type="bugtracker">https://github.com/linuxhubit/discover/issues</url>
-  <url type="help">https://github.com/linuxhubit/discover</url>
+  <url type="homepage">https://github.com/linuxhubit/shouldidoit</url>
+  <url type="bugtracker">https://github.com/linuxhubit/shouldidoit/issues</url>
+  <url type="help">https://github.com/linuxhubit/shouldidoit</url>
   <update_contact>send@mirko.pm</update_contact>
   <custom>
     <value key="x-appcenter-color-primary">#aa5fb0</value>
