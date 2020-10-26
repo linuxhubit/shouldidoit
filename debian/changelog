@@ -1,6 +1,6 @@
-com.github.linuxhubit.shouldidoit (1.2.4) UNSTABLE; urgency=low
+com.github.linuxhubit.shouldidoit (1.2.5) UNSTABLE; urgency=low
 
   * Add meson directory with post_install
-  * Bump to 1.2.4 release for AppCenter submit
+  * Bump to 1.2.5 release for AppCenter release
 
- -- Mirko Brombin <send@mirko.pm>  Sat, 2 May 2020 20:25:00 +0000
+ -- Mirko Brombin <send@mirko.pm>  Mon, 26 Oct 2020 15:13:00 +0000
