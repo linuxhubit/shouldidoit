@@ -75,8 +75,8 @@ public class Shouldidoit.MainWindow : Gtk.ApplicationWindow
 
         // headerbar
         var headerbar = new Gtk.HeaderBar ();
-        headerbar.pack_start (refresh_button);
-        headerbar.pack_end (close_button);
+        headerbar.pack_end (refresh_button);
+        headerbar.pack_start (close_button);
         headerbar.set_custom_title (spacer);
 
         var headerbar_style_context = headerbar.get_style_context ();
