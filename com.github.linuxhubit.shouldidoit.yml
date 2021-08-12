@@ -1,0 +1,20 @@
+app-id: com.github.linuxhubit.shouldidoit
+
+runtime: io.elementary.Platform
+runtime-version: '6'
+sdk: io.elementary.Sdk
+
+command: com.github.linuxhubit.shouldidoit
+
+finish-args:
+  - '--share=ipc'
+  - '--share=network'
+  - '--socket=fallback-x11'
+  - '--socket=wayland'
+
+modules:
+  - name: shouldidoit
+    buildsystem: meson
+    sources:
+      - type: dir
+        path: .
