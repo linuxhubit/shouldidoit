@@ -6,5 +6,5 @@ Comment=Should I do it
 Exec=com.github.linuxhubit.shouldidoit %U
 Icon=com.github.linuxhubit.shouldidoit
 Terminal=false
-Categories=Utility;
+Categories=Amusement;Utility;
 Keywords=choice;
